@@ -1,0 +1,2 @@
+To run the code through the command window, input the following command and press enter:
+python detect_faces.py -f ./cascades/haarcascade_frontalface_default.xml -i ./images/messi.png
